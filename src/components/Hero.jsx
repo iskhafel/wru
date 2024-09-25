@@ -12,7 +12,7 @@ export default function Hero() {
       >
         <div className="h-96 bg-black text-white bg-opacity-50 flex items-center justify-center">
           <div className="text-center">
-            <h2 className="text-5xl font-bold mb-4">Welcome to My App</h2>
+            <h2 className="text-5xl font-bold mb-4 p-4">Welcome to My App</h2>
             <p className="text-lg mb-6">Nonton Gratis Hanya Disini</p>
             <a
               href="#"
