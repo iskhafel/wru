@@ -12,14 +12,16 @@ export default function Hero() {
       >
         <div className="h-96 bg-black text-white bg-opacity-50 flex items-center justify-center">
           <div className="text-center">
-            <h2 className="text-5xl font-bold mb-4 p-4">Welcome to My App</h2>
-            <p className="text-lg mb-6">Nonton Gratis Hanya Disini</p>
-            <a
-              href="#"
-              className="bg-slate-600 hover:bg-slate-700 text-white font-semibold py-2 px-6 rounded-full"
-            >
-              Get Started
-            </a>
+            <h2 className="text-5xl font-bold mb-4 p-4">
+              Aplikasi Nonton Gratis
+            </h2>
+            <div className="form-control">
+              <input
+                type="text"
+                placeholder="Search..."
+                className="input input-bordered w-24 md:w-auto container mx-auto"
+              />
+            </div>
           </div>
         </div>
       </section>

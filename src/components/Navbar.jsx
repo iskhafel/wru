@@ -16,11 +16,6 @@ export default function Navbar() {
               </li>
               <li>
                 <a href="#" className="hover:text-gray-400">
-                  Series
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-gray-400">
                   Requests
                 </a>
               </li>
